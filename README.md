@@ -1,4 +1,4 @@
-# Obligatory "I'll write this late"
+# Obligatory "I'll write this later"
 
 ## Components
 
@@ -7,5 +7,5 @@
 
 ## Data
 
-https://stoicquotesapi.com/
-https://stoicquotesapi.com/v1/api/quotes/random
+- https://stoicquotesapi.com/
+- https://stoicquotesapi.com/v1/api/quotes/random
